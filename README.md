@@ -88,27 +88,21 @@ A microcontroller project focused on timer configuration and peripheral-level fi
 
 **Firmware & Embedded Concepts**
 
-- Embedded C and bare-metal programming
-- Interrupts, timers, and exception handling
+- Embedded C and bare-metal programming                     - Task scheduling and real-time system concepts
+- Interrupts, timers, and exception handling                - Hardware–software integration and debugging
 - Peripheral interfacing and driver development
-- Task scheduling and real-time system concepts
-- Hardware–software integration and debugging
 
 **Communication Interfaces**
 
-- UART
-- SPI
-- I²C
-- MQTT
-- Wi-Fi-based IoT communication
+- UART          - SPI
+- MQTT          - I²C
+- I2S           -RS-232
 
 **Development Tools**
 
-- STM32CubeIDE
-- VS Code
+- STM32CubeIDE         - Git and GitHub
+- VS Code              - KiCad
 - Arduino IDE
-- Git and GitHub
-- KiCad
 
 ## 📊 GitHub Overview
 
