@@ -124,8 +124,12 @@ A microcontroller project focused on timer configuration and peripheral-level fi
 
 
 
+
 ## 📬 Connect with Me
 
-<a href="https://www.linkedin.com/in/athikari-thejesh/"><img src="https://img.shields.io/badge/LINKEDIN-555555?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.linkedin.com/in/athikari-thejesh/"><img src="https://img.shields.io/badge/ATHIKARI--THEJESH-0077B5?style=for-the-badge" /></a>
-<a href="https://github.com/Athikari-Thejesh"><img src="https://img.shields.io/badge/GITHUB-555555?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://github.com/Athikari-Thejesh"><img src="https://img.shields.io/badge/ATHIKARI--THEJESH-181717?style=for-the-badge" /></a>
-<a href="https://athikari-thejesh.github.io/Thejesh-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-555555?style=for-the-badge&logo=googlechrome&logoColor=white" /></a><a href="https://athikari-thejesh.github.io/Thejesh-portfolio/"><img src="https://img.shields.io/badge/VISIT_MY_SITE-6C63FF?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/athikari-thejesh/"><img src="https://img.shields.io/badge/LINKEDIN-555555?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://www.linkedin.com/in/athikari-thejesh/"><img src="https://img.shields.io/badge/ATHIKARI--THEJESH-0077B5?style=for-the-badge" alt="LinkedIn profile"/></a>
+<a href="mailto:thejeshyadav33@gmail.com"><img src="https://img.shields.io/badge/EMAIL-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a><a href="mailto:thejeshyadav33@gmail.com"><img src="https://img.shields.io/badge/THEJESH.YADAV33%40GMAIL.COM-EA4335?style=for-the-badge" alt="Email address"/></a>
+<a href="https://github.com/Athikari-Thejesh"><img src="https://img.shields.io/badge/GITHUB-555555?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a><a href="https://github.com/Athikari-Thejesh"><img src="https://img.shields.io/badge/ATHIKARI--THEJESH-181717?style=for-the-badge" alt="GitHub profile"/></a>
+<a href="tel:+919381978740"><img src="https://img.shields.io/badge/MOBILE-555555?style=for-the-badge&logo=phone&logoColor=white" alt="Mobile"/></a><a href="tel:+919381978740"><img src="https://img.shields.io/badge/+91--9381978740-2E8B57?style=for-the-badge" alt="Contact number"/></a>
+<a href="https://athikari-thejesh.github.io/Thejesh-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-555555?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a><a href="https://athikari-thejesh.github.io/Thejesh-portfolio/"><img src="https://img.shields.io/badge/VIEW_MY_WORK-6C63FF?style=for-the-badge" alt="View portfolio"/></a>
+<a href="https://www.instagram.com/tej.yadav333/"><img src="https://img.shields.io/badge/INSTAGRAM-555555?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a><a href="https://www.instagram.com/tej.yadav333/"><img src="https://img.shields.io/badge/TEJ.YADAV333-E4405F?style=for-the-badge" alt="Instagram profile"/></a>
