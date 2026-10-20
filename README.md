@@ -122,12 +122,15 @@ A microcontroller project focused on timer configuration and peripheral-level fi
 
 </div>
 
-## 📫 Connect With Me
 
-- **GitHub:** [Athikari-Thejesh](https://github.com/Athikari-Thejesh)
-- **LinkedIn:** [Connect professionally](https://www.linkedin.com/in/athikari-thejesh/)
-- **Portfolio:** [Explore my engineering work](https://athikari-thejesh.github.io/Thejesh-portfolio/)
+<h2>📬 Connect with Me</h2>
 
----
-
-*Building reliable embedded systems through disciplined firmware development, hardware-level understanding, and continuous engineering practice.*
+<a href="https://www.linkedin.com/in/athikari-thejesh/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Athikari-Thejesh">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://athikari-thejesh.github.io/Thejesh-portfolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
