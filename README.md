@@ -105,18 +105,13 @@ A microcontroller project focused on timer configuration and peripheral-level fi
 - Arduino IDE
 
 ## 📊 GitHub Overview
-
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Athikari-Thejesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athikari-Thejesh&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-
 <img src="https://streak-stats.demolab.com?user=Athikari-Thejesh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
-
-
 
 
 
