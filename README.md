@@ -116,15 +116,16 @@ A microcontroller project focused on timer configuration and peripheral-level fi
 
 
 
+
 ## 📬 Connect with Me
 
 <div align="left">
 
-<a href="https://www.linkedin.com/in/athikari-thejesh/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="155" height="42" alt="LinkedIn"/></a>
-<a href="mailto:thejeshyadav33@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="155" height="42" alt="Email"/></a>
-<a href="https://github.com/Athikari-Thejesh"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" width="155" height="42" alt="GitHub"/></a>
-<a href="https://www.instagram.com/tej.yadav333/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="155" height="42" alt="Instagram"/></a>
-<a href="https://athikari-thejesh.github.io/Thejesh-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" width="155" height="42" alt="Portfolio"/></a>
-<a href="tel:+919381978740"><img src="https://img.shields.io/badge/MOBILE-2E8B57?style=for-the-badge&logo=phone&logoColor=white" width="155" height="42" alt="Mobile Number"/></a>
+<a href="https://www.linkedin.com/in/athikari-thejesh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="115" height="30" alt="LinkedIn"/></a>
+<a href="mailto:thejeshyadav33@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="115" height="30" alt="Email"/></a>
+<a href="https://github.com/Athikari-Thejesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="115" height="30" alt="GitHub"/></a>
+<a href="https://www.instagram.com/tej.yadav333/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="115" height="30" alt="Instagram"/></a>
+<a href="https://athikari-thejesh.github.io/Thejesh-portfolio/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" width="115" height="30" alt="Portfolio"/></a>
+<a href="tel:+919381978740"><img src="https://img.shields.io/badge/Mobile-2E8B57?style=for-the-badge&logo=phone&logoColor=white" width="115" height="30" alt="Mobile"/></a>
 
 </div>
