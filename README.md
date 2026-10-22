@@ -94,9 +94,9 @@ A microcontroller project focused on timer configuration and peripheral-level fi
 
 **Communication Interfaces**
 
-- UART                                 - SPI
-- MQTT                                 - I²C
-- I2S                                  -RS-232
+- UART                            **     - SPI**
+- MQTT                             **    - I²C**
+- I2S                                **  -RS-232**
 
 **Development Tools**
 
