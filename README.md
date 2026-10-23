@@ -11,11 +11,11 @@ My engineering interests include bare-metal firmware, embedded driver developmen
 I'm an Embedded Engineer focused on developing reliable firmware and understanding the interaction between software and hardware.
 
 - **Firmware Development:** Embedded C, modular firmware design, and low-level programming.
-- **Microcontroller Architecture:** STM32, ARM Cortex-M, ESP32, and peripheral-level development.
+- **Microcontroller Architecture:** STM32, ARM Cortex-M, ESP32, and peripheral-level development, Driver development, HAL programming .
 - **Real-Time Systems:** System tick configuration, interrupt handling, task scheduling concepts, and context switching.
 - **Peripheral Integration:** GPIO, timers, UART, SPI, I²C, and sensor interfacing.
 - **Connected Systems:** ESP32 connectivity, Wi-Fi, MQTT, and IoT device integration.
-- **Engineering Tools:** STM32CubeIDE, Git, VS Code, KiCad, and embedded debugging workflows.
+- **Engineering Tools:** STM32CubeIDE, Git, VS Code, KiCad, ArduinoIDE and embedded debugging workflows.
 
 My focus is on writing maintainable firmware, understanding hardware constraints, and validating system behavior through practical implementation and testing.
 
