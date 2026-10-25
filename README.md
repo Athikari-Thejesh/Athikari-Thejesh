@@ -100,7 +100,7 @@ A microcontroller project focused on timer configuration and peripheral-level fi
 
 **Development Tools**
 
-- STM32CubeIDE                                       & Git and GitHub
+- STM32CubeIDE                                       & GitHub
 - VS Code                                            & KiCad and EASY EDA
 - Arduino IDE
 
