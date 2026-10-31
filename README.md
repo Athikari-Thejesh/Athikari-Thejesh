@@ -23,7 +23,7 @@ My focus is on writing maintainable firmware, understanding hardware constraints
 
 ### 1. Real-Time Task Scheduler — ARM Cortex-M
 
-Exploring the fundamentals of bare-metal task scheduling and processor execution on ARM Cortex-M microcontrollers.
+Exploring the fundamentals of bare-metal task scheduling and processor execution on ARM Cortex-M microcontrollers.  
 
 - SysTick-based periodic timing.
 - PendSV-based context-switching implementation.
@@ -72,7 +72,7 @@ A microcontroller project focused on timer configuration and peripheral-level fi
 
 [View Project →](https://github.com/Athikari-Thejesh/timers)
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 **Programming Languages**
 
@@ -93,7 +93,7 @@ A microcontroller project focused on timer configuration and peripheral-level fi
 - Peripheral interfacing and driver development
 
 **Communication Interfaces**
-
+  
 - UART                             & SPI
 - MQTT                             & I²C
 - I2S                               & RS-232
