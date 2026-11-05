@@ -8,7 +8,6 @@ My engineering interests include bare-metal firmware, embedded driver developmen
 
 ## 🚀 About Me
 
-
 I'm an Embedded Engineer focused on developing reliable firmware and understanding the interaction between software and hardware.
 
 - **Firmware Development:** Embedded C, modular firmware design, and low-level programming.
