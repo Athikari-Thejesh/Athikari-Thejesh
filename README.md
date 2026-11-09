@@ -119,9 +119,6 @@ A microcontroller project focused on timer configuration and peripheral-level fi
 
 
 
-
-
-
 <h2>📬 Connect with Me</h2>
 
 <a href="https://www.linkedin.com/in/athikari-thejesh/">
