@@ -105,15 +105,31 @@ A microcontroller project focused on timer configuration and peripheral-level fi
 - Arduino IDE
 
 ## 📊 GitHub Overview
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Athikari-Thejesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<table>
+<tr>
+<td width="50%" align="center">
 
+**GitHub Statistics**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athikari-Thejesh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Athikari-Thejesh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
 
+</td>
+<td width="50%" align="center">
 
-<img src="https://streak-stats.demolab.com?user=Athikari-Thejesh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+**Most Used Languages**
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Athikari-Thejesh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+
+</td>
+</tr>
+</table>
+
+**GitHub Streak**
+
+<img src="https://streak-stats.demolab.com/?user=Athikari-Thejesh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
