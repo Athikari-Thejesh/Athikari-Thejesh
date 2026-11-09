@@ -36,7 +36,6 @@ Exploring the fundamentals of bare-metal task scheduling and processor execution
 
 ### 2. EV Monitoring & ADAS Warning System
 
-
 An STM32-based embedded project focused on vehicle monitoring, sensor processing, and driver-warning functionality.
 
 - Ultrasonic sensor integration.
